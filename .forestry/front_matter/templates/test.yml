@@ -21,3 +21,5 @@ fields:
       format: markdown
   label: '1714'
   description: '77'
+pages:
+- content/1717.md
