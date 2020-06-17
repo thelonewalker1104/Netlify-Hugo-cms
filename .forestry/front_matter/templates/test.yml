@@ -1,4 +1,13 @@
 ---
 label: Test
 hide_body: true
-fields: []
+fields:
+- name: '11'
+  type: datetime
+  label: '11'
+  description: 1個1
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
